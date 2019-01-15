@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+hi hoomans!
+
+this is a project code enjoy!
